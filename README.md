@@ -16,8 +16,3 @@ npm run demo        # démonstration sur deux ruches
 - `seance5-comportement-ddd/comportementaux/EventBus.js` : bus d'événements (Observer)
 - `tools/` : lanceur de tests et vérificateur d'architecture
 
-## État d'avancement
-- [x] Glossaire, bounded contexts, context map, points chauds
-- [x] Agrégat Alerte : 12 tests sur 12
-- [ ] Photo du mur : `docs/event-storming/mur-complet.jpg`
-- [ ] Pour le 30/10 : état ANNULÉE, observateur de notification, ADR (séance 6)
